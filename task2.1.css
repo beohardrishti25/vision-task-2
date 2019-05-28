@@ -1,0 +1,81 @@
+h1{
+  text-align: center;
+  font-style: oblique;
+  font-family: cursive;
+  color: rgb(0,150,300, 0.5);
+  width: 900px;
+  border: 1px solid blue;
+  padding: 50px;
+  margin: 20px;
+  font-size: 75px;
+}
+table, th, td {
+  border: 1px solid black;
+
+  width:32px
+}
+i{
+  color: rgb(0,100,250);, 0, 0, 0.5);
+  font-size: 80px;
+}
+div{
+  font-size: 50px;
+}
+caption{
+  text-align: center;
+  font-style: oblique;
+  font-family: cursive;
+  color: rgb(0,100,300, 0.5);
+font-size: 20px;
+}
+ul{
+  width: 1000px;
+  border: 1px solid blue;
+  padding: 50px;
+  margin: 20px;
+  font-size: 50px;
+  font-family: sans-serif;
+
+}
+table{
+  width: 600px;
+  border: 1px solid blue;
+padding: 50px;
+  margin: 20px;
+background-color: #f4f4f4;
+
+
+}
+div.image
+
+  {
+
+  width:1000px;
+
+  height:250px;
+
+  background:C:\Users\Dell\Downloads\images (1).jpg;
+
+  background-repeat:no-repeat;
+
+  background-position:center;
+
+
+
+  border-color:#CD853F;
+
+  }
+  h2{
+    font-size: 70px;
+  }
+
+  b{
+    font-size: 100px;
+  }
+  button{
+    font-size: 40px;
+  }
+  div.ins{
+  text-align: center;
+
+  }
